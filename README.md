@@ -6,3 +6,4 @@
 6. Ngrok Tunnel URL: NgrokTunnel: "https:...ngrok-free.app" -> "http://localhost:5000" 라인에서 https://...ngrok-free.app를 클릭한다.
 7. visit site를 클릭한다.
 8. 웹 페이지가 실행된다.
+https://drive.google.com/file/d/1r_taY5CACDsNb_v_NWssypdt1Dqsjmkh/view?usp=sharing kclue.pt
